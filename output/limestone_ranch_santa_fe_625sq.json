@@ -1,0 +1,565 @@
+{
+  "source_image": "limestone ranch_santa fe_625sq.webp",
+  "image_width": 1140,
+  "image_height": 855,
+  "coordinate_system": "origin at the top-left corner, x to the right, y down",
+  "area_unit": "pixels",
+  "plan_area_px": 416686,
+  "total_room_area_px": 257090,
+  "features": [
+    {
+      "kind": "window",
+      "orientation": "horizontal",
+      "x0": 663,
+      "y0": 142,
+      "x1": 786,
+      "y1": 142
+    },
+    {
+      "kind": "balcony",
+      "orientation": "horizontal",
+      "x0": 440,
+      "y0": 101,
+      "x1": 579,
+      "y1": 101
+    },
+    {
+      "kind": "door",
+      "orientation": "horizontal",
+      "x0": 510,
+      "y0": 582,
+      "x1": 573,
+      "y1": 582
+    },
+    {
+      "kind": "door",
+      "orientation": "vertical",
+      "x0": 606,
+      "y0": 437,
+      "x1": 606,
+      "y1": 473
+    },
+    {
+      "kind": "door",
+      "orientation": "vertical",
+      "x0": 606,
+      "y0": 543,
+      "x1": 606,
+      "y1": 577
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room_1",
+      "polygon": [
+        [
+          882,
+          144
+        ],
+        [
+          860,
+          144
+        ],
+        [
+          860,
+          150
+        ],
+        [
+          874,
+          150
+        ],
+        [
+          883,
+          157
+        ],
+        [
+          879,
+          168
+        ],
+        [
+          860,
+          170
+        ],
+        [
+          860,
+          440
+        ],
+        [
+          890,
+          442
+        ],
+        [
+          894,
+          453
+        ],
+        [
+          885,
+          460
+        ],
+        [
+          750,
+          460
+        ],
+        [
+          741,
+          453
+        ],
+        [
+          750,
+          440
+        ],
+        [
+          840,
+          440
+        ],
+        [
+          840,
+          229
+        ],
+        [
+          609,
+          229
+        ],
+        [
+          609,
+          440
+        ],
+        [
+          629,
+          447
+        ],
+        [
+          625,
+          458
+        ],
+        [
+          609,
+          460
+        ],
+        [
+          609,
+          572
+        ],
+        [
+          631,
+          572
+        ],
+        [
+          631,
+          447
+        ],
+        [
+          639,
+          438
+        ],
+        [
+          651,
+          447
+        ],
+        [
+          651,
+          572
+        ],
+        [
+          717,
+          572
+        ],
+        [
+          712,
+          564
+        ],
+        [
+          712,
+          259
+        ],
+        [
+          720,
+          250
+        ],
+        [
+          732,
+          259
+        ],
+        [
+          732,
+          564
+        ],
+        [
+          727,
+          572
+        ],
+        [
+          900,
+          572
+        ],
+        [
+          900,
+          340
+        ]
+      ],
+      "area_px": 85958,
+      "centroid": [
+        755.7,
+        394.4
+      ],
+      "bbox": [
+        609,
+        144,
+        292,
+        429
+      ],
+      "relative_area": 0.3343
+    },
+    {
+      "id": "room_2",
+      "polygon": [
+        [
+          350,
+          170
+        ],
+        [
+          350,
+          497
+        ],
+        [
+          500,
+          497
+        ],
+        [
+          502,
+          481
+        ],
+        [
+          512,
+          477
+        ],
+        [
+          528,
+          504
+        ],
+        [
+          520,
+          516
+        ],
+        [
+          520,
+          572
+        ],
+        [
+          589,
+          572
+        ],
+        [
+          589,
+          460
+        ],
+        [
+          546,
+          460
+        ],
+        [
+          537,
+          453
+        ],
+        [
+          546,
+          440
+        ],
+        [
+          589,
+          440
+        ],
+        [
+          589,
+          229
+        ],
+        [
+          394,
+          229
+        ],
+        [
+          385,
+          222
+        ],
+        [
+          394,
+          209
+        ],
+        [
+          589,
+          209
+        ],
+        [
+          589,
+          170
+        ]
+      ],
+      "area_px": 78718,
+      "centroid": [
+        472.8,
+        350.2
+      ],
+      "bbox": [
+        350,
+        170,
+        240,
+        403
+      ],
+      "relative_area": 0.3062
+    },
+    {
+      "id": "room_3",
+      "polygon": [
+        [
+          350,
+          592
+        ],
+        [
+          350,
+          674
+        ],
+        [
+          415,
+          674
+        ],
+        [
+          424,
+          681
+        ],
+        [
+          415,
+          694
+        ],
+        [
+          350,
+          694
+        ],
+        [
+          350,
+          718
+        ],
+        [
+          631,
+          718
+        ],
+        [
+          631,
+          592
+        ],
+        [
+          609,
+          592
+        ],
+        [
+          609,
+          699
+        ],
+        [
+          601,
+          708
+        ],
+        [
+          589,
+          699
+        ],
+        [
+          589,
+          592
+        ],
+        [
+          520,
+          592
+        ],
+        [
+          520,
+          608
+        ],
+        [
+          512,
+          617
+        ],
+        [
+          501,
+          611
+        ],
+        [
+          500,
+          592
+        ]
+      ],
+      "area_px": 31837,
+      "centroid": [
+        487.4,
+        654.9
+      ],
+      "bbox": [
+        350,
+        592,
+        282,
+        127
+      ],
+      "relative_area": 0.1238
+    },
+    {
+      "id": "room_4",
+      "polygon": [
+        [
+          651,
+          592
+        ],
+        [
+          651,
+          718
+        ],
+        [
+          900,
+          718
+        ],
+        [
+          900,
+          592
+        ]
+      ],
+      "area_px": 31750,
+      "centroid": [
+        775.5,
+        655.0
+      ],
+      "bbox": [
+        651,
+        592,
+        250,
+        127
+      ],
+      "relative_area": 0.1235
+    },
+    {
+      "id": "room_5",
+      "polygon": [
+        [
+          237,
+          592
+        ],
+        [
+          237,
+          718
+        ],
+        [
+          330,
+          718
+        ],
+        [
+          330,
+          694
+        ],
+        [
+          306,
+          694
+        ],
+        [
+          297,
+          687
+        ],
+        [
+          303,
+          675
+        ],
+        [
+          330,
+          674
+        ],
+        [
+          330,
+          592
+        ]
+      ],
+      "area_px": 11347,
+      "centroid": [
+        281.9,
+        653.5
+      ],
+      "bbox": [
+        237,
+        592,
+        94,
+        127
+      ],
+      "relative_area": 0.0441
+    },
+    {
+      "id": "room_6",
+      "polygon": [
+        [
+          237,
+          402
+        ],
+        [
+          237,
+          497
+        ],
+        [
+          330,
+          497
+        ],
+        [
+          330,
+          402
+        ]
+      ],
+      "area_px": 9024,
+      "centroid": [
+        283.5,
+        449.5
+      ],
+      "bbox": [
+        237,
+        402,
+        94,
+        96
+      ],
+      "relative_area": 0.0351
+    },
+    {
+      "id": "room_7",
+      "polygon": [
+        [
+          350,
+          517
+        ],
+        [
+          350,
+          572
+        ],
+        [
+          500,
+          572
+        ],
+        [
+          500,
+          517
+        ]
+      ],
+      "area_px": 8456,
+      "centroid": [
+        425.0,
+        544.5
+      ],
+      "bbox": [
+        350,
+        517,
+        151,
+        56
+      ],
+      "relative_area": 0.0329
+    }
+  ],
+  "assumptions": [
+    "The render is a near-orthographic top-down or axonometric view with axis-aligned walls.",
+    "Walls are brighter and less saturated than most floors.",
+    "Door openings are narrower than about 12 percent of the shorter image side.",
+    "A window is two bright frame lines on an exterior wall with glass between them.",
+    "A balcony is a dark rail, or a light rail with repeated balusters, on the exterior.",
+    "Areas are pixel counts in image space. relative_area is each room's share of the detected room pixels.",
+    "Furniture, fixtures, and other marks inside a room are not walls and are not drawn."
+  ]
+}

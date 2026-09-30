@@ -1,0 +1,5 @@
+# OpenCV 5 changed the line-segment detector's return shape. The wall and
+# opening detectors unpack the 4.x layout, so stay on the 4.9 line.
+numpy>=1.26,<3
+opencv-python-headless>=4.9,<5
+pillow>=10

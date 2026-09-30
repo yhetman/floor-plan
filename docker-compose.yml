@@ -1,0 +1,8 @@
+services:
+  floorplan:
+    build: .
+    image: floorplan-layout
+    volumes:
+      - ./input_examples:/data/input:ro
+      - ./output:/data/output
+    command: ["--input-dir", "/data/input", "--output-dir", "/data/output"]
